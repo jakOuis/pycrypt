@@ -21,6 +21,7 @@ https://kleenscan.com/scan_result/39e61c692ee91dd6cd48aca77a8bb220ef27fcc40df758
   *:- For Linux:
    1. sudo apt-get install python3
    2. sudo apt-get install python3-pip
+   
       
 
 # Requriements:-

@@ -40,10 +40,12 @@ https://kleenscan.com/scan_result/39e61c692ee91dd6cd48aca77a8bb220ef27fcc40df758
   *:- For Windows:-
    1. Make Sure python3 and pip is installed and requriements also installed
    2. python pycrypt.py
+   3. Then give the path of your payload file and enjoy
    
   *:- For Linux:-
    1. Make Sure All Requriements is installed.
    2. python3 pycrypt.py
+   3. Then enter the path of your payload file and enjoy
   
 # Platforms:
   

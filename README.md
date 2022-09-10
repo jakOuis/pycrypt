@@ -10,8 +10,10 @@ Python Based Crypter That Can Bypass Any Kinds Of Antivirus Products
   3. Again Don't be an Idiot!
   
 # KleenScan Scanner Result:-
-
+  1. Generated stub.py Result:-
 https://kleenscan.com/scan_result/39e61c692ee91dd6cd48aca77a8bb220ef27fcc40df75807d4a1f96b4db8df69
+  2. Crypter Code Result:-
+ https://kleenscan.com/scan_result/24487da561419105e29cabd5fc66c503ee767719029fae2f9a041b04d6a75d4b
 
 # Download Python3:
   

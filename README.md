@@ -19,8 +19,8 @@ https://kleenscan.com/scan_result/39e61c692ee91dd6cd48aca77a8bb220ef27fcc40df758
       https://www.python.org/ftp/python/3.10.7/python-3.10.7-amd64.exe
       
   *:- For Linux:
-      1. sudo apt-get install python3
-      2. sudo apt-get install python3-pip
+   1. sudo apt-get install python3
+   2. sudo apt-get install python3-pip
       
 
 # Requriements:-
@@ -28,6 +28,15 @@ https://kleenscan.com/scan_result/39e61c692ee91dd6cd48aca77a8bb220ef27fcc40df758
   1. Make Sure Python3 And Pip Installed
   2. pip install termcolor
   3. pip install requests
+ 
+# How To Run:-
+  *:- For Windows:-
+   1. Make Sure python3 and pip is installed and requriements also installed
+   2. python pycrypt.py
+   
+  *:- For Linux:-
+   1. Make Sure All Requriements is installed.
+   2. python3 pycrypt.py
   
 # Platforms:
   
